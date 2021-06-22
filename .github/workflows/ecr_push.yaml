@@ -1,6 +1,7 @@
 name: ECR Push
 
 on:
+  push:
   workflow_dispatch:
 
 jobs:
